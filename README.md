@@ -1,20 +1,27 @@
 # 🚨 _One-Stop-Shop_ Klipper Configuration
 
-This branch contains the Klipper configuration and firmware for the **Sovol SV06** 3D printer.
+This branch contains the Klipper configuration the conversion guide and firmware for the **Sovol SV06** Fly-E3-Pro-v3
 
 | Printer                                                         | Branch                                                                                    |
 | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| ${\normalsize{\textcolor{darkturquoise}{\texttt{Sovol SV06}}}}$ | ⚡ ${\small{\textcolor{darkturquoise}{\texttt{YOU ARE HERE}}}}$ ⚡                        |
+| Sovol SV06 |                       |
 | Sovol SV06 Skr-Mini-E3-V3.0                                     | [skr-mini-e3-v3](https://github.com/bassamanator/Sovol-SV06-firmware/tree/skr-mini-e3-v3) |
+| ${\normalsize{\textcolor{darkturquoise}{\texttt{Sovol SV06 Fly-E3-Pro-v3}}}}$                                        | ⚡ ${\small{\textcolor{darkturquoise}{\texttt{YOU ARE HERE}}}}$ ⚡   |
 | Sovol SV06 Plus                                                 | [sv06-plus](https://github.com/bassamanator/Sovol-SV06-firmware/tree/sv06-plus)           |
 | All other printers                                              | [any-printer](https://github.com/bassamanator/Sovol-SV06-firmware/tree/any-printer)       |
 
 I am creating these files for my personal use and cannot be held responsible for what it might do to your printer. Use at your own risk.
 
 ## Outline
-
+- [Preface](#preface)
 - [Features](#features)
 - [Stay Up-to-Date](#stay-up-to-date)
+- [Hardware Conversion]
+ - [BOM]
+ - [Electrical wireing]
+ - [Modifing Extruder Ribbon-Cable]
+ - [Modifing Mobo enclosure]
+ - [Wireing Steppers]
 - [Preface](#preface)
 - [Before You Begin](#before-you-begin)
 - [Klipper Installation](#klipper-installation)
@@ -30,6 +37,8 @@ I am creating these files for my personal use and cannot be held responsible for
 - [Useful Resources](#useful-resources)
 - [Sovol Official Links](#sovol-official-links)
 - [Sources](#sources)
+## Preface
+This Mod needs to manipulation of the hardware. So if this doesnt work out for you, there is a way back but you have to live with minor cosmetic changes of the machine. Also this mod needs crimping and solder tools as well as a minimum of skills in these fields. So if youre a beginner I will try my very best to hold your hand while doing this conversion, but youre the only one responsible.
 
 ## Features
 

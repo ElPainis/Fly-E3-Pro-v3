@@ -1,6 +1,6 @@
 # 🚨 _One-Stop-Shop_ Klipper Configuration
 
-This branch contains the Klipper configuration the conversion guide and firmware for the **Sovol SV06** Fly-E3-Pro-v3
+This branch contains the Klipper configuration the conversion guide and for the **Sovol SV06** Fly-E3-Pro-v3
 
 | Printer                                                         | Branch                                                                                    |
 | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
@@ -38,7 +38,15 @@ I am creating these files for my personal use and cannot be held responsible for
 - [Sovol Official Links](#sovol-official-links)
 - [Sources](#sources)
 ## Preface
-This Mod needs to manipulation of the hardware. So if this doesnt work out for you, there is a way back but you have to live with minor cosmetic changes of the machine. Also this mod needs crimping and solder tools as well as a minimum of skills in these fields. So if youre a beginner I will try my very best to hold your hand while doing this conversion, but youre the only one responsible.
+This Mod needs reversable manipulation of the hardware. If this mod doesnt work out for you, there is a way back to the Stock mobo but you have to live with some minor cosmetic changes of the machine. Also this mod needs crimping and solder tools as well as a minimum of skills with these. So if youre a beginner I will try my very best to hold your hand while doing this conversion, but youre the only one that can be hold responsible.
+
+DISCLAIMER:
+The conversion also needs some modification of the PSU wireing, so there is potential of frying components, damaging your machine in general or worst risk of life when doing wrong. Read the full guide with full Attention. I can not be hold accountable if there is any damage or injuries.
+
+Important Safety Rules:
+1. Turn Off and unplug the machine before working on it
+2. Make shure it cant be plugged in or turned on accidantial
+3. Use proper tools
 
 ## Features
 

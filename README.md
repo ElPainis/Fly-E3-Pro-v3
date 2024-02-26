@@ -80,9 +80,9 @@ Watch for [updates](https://github.com/bassamanator/Sovol-SV06-firmware/discussi
 
 ## Hardware Conversion
 ## BOM
-|1|A|a|
-|1|A|a|
-|1|A|a|
+| Printer                                                         | Branch                                                                                    |
+|
+----------
 
 [🔼 Back to top](#outline)
 

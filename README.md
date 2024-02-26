@@ -1,6 +1,6 @@
-# 🚨 _One-Stop-Shop_ Klipper Configuration
+# ⚠️⚙️ 3D-printer_Hardware_Shop ⚙️⚠️
 
-This branch contains the Klipper configuration the conversion guide and for the **Sovol SV06** Fly-E3-Pro-v3
+This branch contains the conversion guide & Klipper configuration for the **Sovol SV06** Fly-E3-Pro-v3
 
 | Printer                                                         | Branch                                                                                    |
 | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
@@ -18,10 +18,10 @@ I am creating these files for my personal use and cannot be held responsible for
 - [Stay Up-to-Date](#stay-up-to-date)
 - [Hardware Conversion](#Hardware Conversion)
  - [BOM]#(BOM)
- - [Electrical wireing]
- - [Modifing Extruder Ribbon-Cable]
- - [Modifing Mobo enclosure]
- - [Wireing Steppers]
+ - [Electrical wireing](#electrical wireing)
+ - [Modifing Extruder Ribbon-Cable](#Modifing Extruder Ribbon-Cable)
+ - [Modifing Mobo enclosure](#Modifing Mobo enclosure)
+ - [Wireing Steppers](#wireing steppers)
 - [Preface](#preface)
 - [Before You Begin](#before-you-begin)
 - [Klipper Installation](#klipper-installation)

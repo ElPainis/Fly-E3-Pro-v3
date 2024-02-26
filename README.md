@@ -43,6 +43,8 @@ This Mod includes manipulation of the hardware. If this mod doesnt work out for 
 
 This Mod needs crimping and solder tools as well as a minimum of skills with these. So if youre a beginner I will try my very best to hold your hand while doing this conversion, but youre the only one that can be hold responsible.
 
+Even though I tried to make everything as easy as possible the prequesition is also youre familiar with Klipper. Over all I would recommend this Mod to advanced klipper-users which means you have at least used and modified Klipper once and understand most part of it.
+
 ## DISCLAIMER:
 The conversion needs modification of the PSU wireing. There is the potential risk of frying components, damaging your machine, firehazard or worst threading your life when doing wrong. If you unshure how to do proceed stop and get help. Also please leave feedback and open an issue so this guide can be optimized. Read the complete guide with attention. I can not be hold accountable for any damage or injuries. Youre doing this at your own risk.
 

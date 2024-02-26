@@ -83,7 +83,7 @@ Watch for [updates](https://github.com/bassamanator/Sovol-SV06-firmware/discussi
 | Kind  | Part | Price | Source |
 | ----- | ---- | ----- | ------ |
 | Electronics  | Fly-E3-Pro-V3 | ~40 Money  | [AliExpress](https://a.aliexpress.com/_EwY8p5L) |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Wireing  | 200cm each AWG14 Red & Black  | ~4 Money  | [AliExpress](https://a.aliexpress.com/_ExgydLn)  |
 
 [🔼 Back to top](#outline)
 

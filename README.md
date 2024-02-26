@@ -1,6 +1,6 @@
 # ⚠️⚙️ 3D-printer_Hardware_Shop ⚙️⚠️
 
-This branch contains the conversion guide & Klipper configuration for the **Sovol SV06** Fly-E3-Pro-v3
+This branch contains the hardware conversion guide & Klipper configuration for the **Sovol SV06 Fly-E3-Pro-v3** based on Bassamanators Branch.
 
 | Printer                                                         | Branch                                                                                    |
 | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
@@ -82,7 +82,7 @@ Watch for [updates](https://github.com/bassamanator/Sovol-SV06-firmware/discussi
 ## BOM
 | Kind  | Part | Price | Source |
 | ----- | ---- | ----- | ------ |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Electronics  | Fly-E3-Pro-V3 | ~40 Money  | [AliExpress](https://a.aliexpress.com/_EwY8p5L) |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 [🔼 Back to top](#outline)

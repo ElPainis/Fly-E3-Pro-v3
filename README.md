@@ -80,9 +80,10 @@ Watch for [updates](https://github.com/bassamanator/Sovol-SV06-firmware/discussi
 
 ## Hardware Conversion
 ## BOM
-| Printer                                                         | Branch                                                                                    |
-|
-----------
+| Kind  | Part |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 [🔼 Back to top](#outline)
 

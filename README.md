@@ -57,6 +57,7 @@ The conversion needs modification of the PSU wireing. There is the potential ris
 ## Features
 
 - 💥 This Klipper configuration is an _endpoint_, meaning that it contains **everything** that you could possibly need in order to have an excellent Klipper experience! 💥
+- Optional Neopixel for your printhead 🔴🟢🔵
 - Minimum configuration settings for `Mainsail` and `Fluidd`.
 - Macros:
   - **Improved** mechanical gantry calibration/`G34` macro that provides the user audio feedback, and time to check the calibration.

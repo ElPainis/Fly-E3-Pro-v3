@@ -403,7 +403,10 @@ Please see this [discussion](https://github.com/bassamanator/Sovol-SV06-firmware
 - [Everything Sovol SV06](https://github.com/bassamanator/everything-sovol-sv06)
 - [RP2040-Zero ADXL345 Connection Klipper](https://github.com/bassamanator/rp2040-zero-adxl345-klipper)
 - ⭐⭐⭐⭐⭐ [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide)
-- [Simplify3D Print Quality Troubleshooting Guide](https://www.simplify3d.com/resources/print-quality-troubleshooting/)
+- [Simplify3D Print Quality Troubleshooting Guide](https://www.simplify3d.com/resources/print-quality-troubleshooting/
+-https://support.th3dstudio.com/helpcenter/ezboard-v2-sovol-sv06-stock-abl-sensor-wiring/
+-https://sv06.blakadder.com/Parts/electronic-parts/
+-https://teamgloomy.github.io/fly_e3_pro_v3_general.html
 
 [🔼 Back to top](#outline)
 

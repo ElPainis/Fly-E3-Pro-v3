@@ -47,10 +47,10 @@ This Mod needs crimping and solder tools as well as a minimum of skills with the
 The conversion needs modification of the PSU wireing. There is the potential risk of frying components, damaging your machine, firehazard or worst threading your life when doing wrong. If you unshure how to do proceed stop and get help. Also please leave feedback and open an issue so this guide can be optimized. Read the complete guide with attention. I can not be hold accountable for any damage or injuries. Youre doing this at your own risk.
 
 🚨 Basic safety rules for electrical DIY 🚨:
--**1. Turn Off the machine and unplug the Power**
--2. Make shure it cant be plugged in or turned on again accidantial.
--3. Don't be lazy but smart. Unplug and disassemble the parts you want to modify as far as possible to get them on a table.
--4. Use proper tools.
+- **1. Turn Off the machine and unplug the Power**
+- 2. Make shure it cant be plugged in or turned on again accidantial.
+- 3. Don't be lazy but smart. Unplug and disassemble the parts you want to modify as far as possible to get them on a table.
+- 4. Use proper tools.
 
 ## Features
 

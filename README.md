@@ -42,10 +42,10 @@ This Mod includes manipulation of the hardware. If this mod doesnt work out for 
 
 This Mod needs crimping and solder tools as well as a minimum of skills with these. So if youre a beginner I will try my very best to hold your hand while doing this conversion, but youre the only one that can be hold responsible.
 
-DISCLAIMER:
-The conversion needs some modification of the PSU wireing, so there is potential of frying components, damaging your machine, firehazard or worst risk of life when doing wrong. If you unshure how to do proceed stop and get help. Read the full guide with attention. I can not be hold accountable if there is any damage or injuries. Youre doing this at your own risk.
+## DISCLAIMER:
+The conversion needs modification of the PSU wireing. There is the potential risk of frying components, damaging your machine, firehazard or worst threading your life when doing wrong. If you unshure how to do proceed stop and get help. Also please leave feedback and open an issue so this guide can be optimized. Read the complete guide with attention. I can not be hold accountable for any damage or injuries. Youre doing this at your own risk.
 
-Basic safety rules for electrical DIY:
+🚨 Basic safety rules for electrical DIY 🚨:
 1. Turn Off and unplug the Power.
 2. Make shure it cant be plugged in or turned on again accidantial.
 3. Use proper tools.
@@ -53,7 +53,6 @@ Basic safety rules for electrical DIY:
 ## Features
 
 - 💥 This Klipper configuration is an _endpoint_, meaning that it contains **everything** that you could possibly need in order to have an excellent Klipper experience! 💥
-- Filament runout sensor usage implemented.
 - Minimum configuration settings for `Mainsail` and `Fluidd`.
 - Pre-configured configuration bundles based on the [Ellis SuperSlicer Print Profiles](https://github.com/AndrewEllis93/Ellis-SuperSlicer-Profiles):
   - SuperSlicer

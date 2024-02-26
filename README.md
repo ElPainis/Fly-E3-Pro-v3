@@ -78,6 +78,14 @@ Watch for [updates](https://github.com/bassamanator/Sovol-SV06-firmware/discussi
 
 [🔼 Back to top](#outline)
 
+## Hardware Conversion
+## BOM
+|1|A|a|
+|1|A|a|
+|1|A|a|
+
+[🔼 Back to top](#outline)
+
 ## Preface
 
 Although I've made switching over to Klipper as easy as is possible, it can still be a challenge for some, especially considering that most of you have likely never used GNU+Linux. Save yourself the frustration, and fully read this documentation. Also note that Klipper is not a _must_, and is not for everyone. You can stick with Marlin, and have a fine 3D printing experience.

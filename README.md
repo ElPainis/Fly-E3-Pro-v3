@@ -56,13 +56,9 @@ The conversion needs modification of the PSU wireing. There is the potential ris
 
 - 💥 This Klipper configuration is an _endpoint_, meaning that it contains **everything** that you could possibly need in order to have an excellent Klipper experience! 💥
 - Minimum configuration settings for `Mainsail` and `Fluidd`.
-- Pre-configured configuration bundles based on the [Ellis SuperSlicer Print Profiles](https://github.com/AndrewEllis93/Ellis-SuperSlicer-Profiles):
-  - SuperSlicer
-  - PrusaSlicer
-  - Printer profiles: SV06/Plus; SV07/Plus
-- Bed model and texture to use in SuperSlicer/PrusaSlicer.
 - Macros:
   - **Improved** mechanical gantry calibration/`G34` macro that provides the user audio feedback, and time to check the calibration.
+  - Z-Tilt to further improve parallel alignment to printbed. 
   - Misc macros: `PRINT_START`, `CANCEL_PRINT`, `PRINT_END`, `PAUSE`, `RESUME`.
   - Parking macros (parks the printhead at various locations): `PARKFRONT`, `PARKFRONTLOW`, `PARKREAR`, `PARKCENTER`, `PARKBED`.
   - Load/unload filament macros.

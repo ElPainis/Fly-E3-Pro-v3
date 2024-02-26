@@ -89,14 +89,6 @@ Watch for [updates](https://github.com/bassamanator/Sovol-SV06-firmware/discussi
 
 [🔼 Back to top](#outline)
 
-## Preface
-
-Although I've made switching over to Klipper as easy as is possible, it can still be a challenge for some, especially considering that most of you have likely never used GNU+Linux. Save yourself the frustration, and fully read this documentation. Also note that Klipper is not a _must_, and is not for everyone. You can stick with Marlin, and have a fine 3D printing experience.
-
-In many ways, this entire repository can be considered _my opinion_ on the `3D printing experience` and this has been _my attempt_ to share that experience. Some factors, such as _accuracy_ and _testing_, have been at the forefront of my thoughts during this process. I hope you find this repository suitable. Cheers.
-
-[🔼 Back to top](#outline)
-
 ## Before You Begin
 
 - This entire page is a **9 minute read**. Save yourself _hours of troubleshooting_ and read this documentation fully.

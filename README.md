@@ -7,7 +7,7 @@ This branch contains the hardware conversion guide & Klipper configuration for t
 
 | Printer                                                         | Branch                                                                                    |
 | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| Sovol SV06 |                       |
+| Sovol SV06 |                           |
 | Sovol SV06 Skr-Mini-E3-V3.0                                     | [skr-mini-e3-v3](https://github.com/bassamanator/Sovol-SV06-firmware/tree/skr-mini-e3-v3) |
 | ${\normalsize{\textcolor{darkturquoise}{\texttt{Sovol SV06 Fly-E3-Pro-v3}}}}$                                        | ⚡ ${\small{\textcolor{darkturquoise}{\texttt{YOU ARE HERE}}}}$ ⚡   |
 | Sovol SV06 Plus                                                 | [sv06-plus](https://github.com/bassamanator/Sovol-SV06-firmware/tree/sv06-plus)           |
@@ -107,6 +107,7 @@ Watch for [updates]
 | Wireing  | 200cm each AWG14 Red & Black  | ~4 Money  | [AliExpress](https://a.aliexpress.com/_ExgydLn)  |
 | Wireing  | Cable Lug 3xSV2-4 & 3xSV2-5 | ~5 Money  | [AliExpress](https://a.aliexpress.com/_Exw61D7)  |
 | Wireing  | MR60 Connector | ~6 Money  | [AliExpress](https://a.aliexpress.com/_EzVy9PX)  |
+| Wireing  | Fabric Protection Tube | ~6 Money  | [AliExpress]()  |
 |Stepper Wireing| 50cm Stepper Wire | ~1 Money |[AliExpress]( https://a.aliexpress.com/_EHGpQVX) |
 |Stepper Wireing| 80cm Stepper Wire | ~1 Money |[AliExpress]( https://a.aliexpress.com/_EHGpQVX) |
 |(Optional)Lighting| 4*1 Bit Neopixel | ~5 Money |[AliExpress](https://a.aliexpress.com/_EIiNKDR) |
@@ -122,10 +123,10 @@ This is the Part for the PSU-wireing to MOBO. You will need:
 
 Step 1
 Cut the wires:
-- 2x Red - 510mm +/-10mm
-- 1x Black - 510 +/-10mm
-- 2x Red - +/-5mm
-- 1x Black - +/-5mm
+- 2x Red - 470 +/-10mm
+- 1x Black - 470 +/-10mm
+- 2x Red - 15 +/-5mm
+- 1x Black - 15 +/-5mm
 
 [🔼 Back to top](#outline)
 ## Modifing Extruder Ribbon-Cable

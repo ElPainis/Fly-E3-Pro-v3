@@ -122,10 +122,10 @@ This is the Part for the PSU-wireing to MOBO. You will need:
 
 Step 1
 Cut the wires:
-2x Red - 510mm +/-10mm
-1x Black - 510 +/-10mm
-2x Red - +/-5mm
-1x Black - +/-5mm
+- 2x Red - 510mm +/-10mm
+- 1x Black - 510 +/-10mm
+- 2x Red - +/-5mm
+- 1x Black - +/-5mm
 
 [🔼 Back to top](#outline)
 ## Modifing Extruder Ribbon-Cable

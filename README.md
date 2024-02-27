@@ -28,7 +28,7 @@ I am creating these files for my personal use and cannot be held responsible for
  - [Modifing Mobo enclosure](#Modifing-Mobo-enclosure)
  - [Wireing Steppers](#wireing-steppers)
 - [Klipper Installation](#klipper-installation)
-- [Before You Begin](#before-you-begin)
+  - [Before You Begin](#before-you-begin)
   - [Flash Firmware](#flash-firmware)
   - [Download OSS Klipper Configuration](#download-oss-klipper-configuration)
 - [Initial Steps](#initial-steps)

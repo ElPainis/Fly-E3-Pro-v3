@@ -1,6 +1,6 @@
-# ⚠️⚙️ 3D-printer_Hardware_Shop ⚙️⚠️
+# ⚠️⚙️ 3D-printer workshop ⚙️⚠️
 
-This branch contains the hardware conversion guide & Klipper configuration for the **Sovol SV06 Fly-E3-Pro-v3** based on Bassamanators Branch.
+This branch contains the hardware conversion guide & Klipper configuration for the **Sovol SV06 Fly-E3-Pro-v3** based on Bassamanators branch.
 
 | Printer                                                         | Branch                                                                                    |
 | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
@@ -13,6 +13,7 @@ This branch contains the hardware conversion guide & Klipper configuration for t
 I am creating these files for my personal use and cannot be held responsible for what it might do to your printer. Use at your own risk.
 
 ## Outline
+- [Contribution](#contribution)
 - [Preface](#preface)
 - [Disclaimer](#Disclaimer)
 - [Features](#features)
@@ -38,15 +39,31 @@ I am creating these files for my personal use and cannot be held responsible for
 - [Useful Resources](#useful-resources)
 - [Sovol Official Links](#sovol-official-links)
 - [Sources](#sources)
+
+## Contribution
+I want to thank Bassamanator for sharing his Klipperconfig, Jan Oerter and Dominik Schmidt for their Anycubic i3 Mega conversion that inspired me. Check Out [their GitHub](https://github.com/Schmelzerboy/I3-Mega-Klipper&ved=2ahUKEwj_2fKx-8qEAxW__7sIHc9iDd8QFnoECBUQAQ&usg=AOvVaw2BVSSPE56Auy_gCTLLL8iX) as well. And I thank the big maker-Community in general for advice and sharing all of your creation without this whole project wouldnt be possible. Youre breathtaking!
+
 ## Preface
+💎
 This Mod includes manipulation of the hardware. If this mod doesnt work out for you its in majority reversable. You have to live with some minor cosmetic changes of the machine.
 
-This Mod needs crimping and solder tools as well as a minimum of skills with these. So if youre a beginner I will try my very best to hold your hand while doing this conversion, but youre the only one that can be hold responsible.
+🪛
+This Mod needs crimping and solder tools as well as a minimum of skills with these. So I assume you have these and the basic skills to use them. I will provide as many as helpful sources as I can to make it as easy as possible to handle the provided guide. So if youre a beginner I will try my very best to hold your hand while doing this conversion. But keep in mind youre the only one that can be hold responsible if things go wrong.
 
+Tools needed:
+- Soldering iron & flux
+- Crimptool for insulated Terminals
+- Shrink Tubes
+- Dupon Connectors
+- Heatgun
+- Pliers to cut and to Grab
+- wire stripper
+
+🐕‍🦺
 Even though I tried to make everything as easy as possible the prequesition is also youre familiar with Klipper. Over all I would recommend this Mod to advanced klipper-users which means you have at least used and modified Klipper once and understand most part of it.
 
 ## DISCLAIMER:
-The conversion needs modification of the PSU wireing. There is the potential risk of frying components, damaging your machine, firehazard or worst threading your life when doing wrong. If you unshure how to do proceed stop and get help. Also please leave feedback and open an issue so this guide can be optimized. Read the complete guide with attention. I can not be hold accountable for any damage or injuries. Youre doing this at your own risk.
+The conversion needs modification of the PSU wireing. There is the potential risk of frying components, damaging your machine, firehazard or worst threading your life when doing wrong. If you unshure how to do proceed stop and get help. Dont improvise at something that can potentialy threading your life when improper! Also please leave feedback and open an issue so this guide can be optimized. Read the complete guide with attention. I can not be hold accountable for any damage or injuries. Youre doing this at your own risk.
 
 🚨 Basic safety rules for electrical DIY 🚨:
 - 1. Turn Off the machine and unplug the Power

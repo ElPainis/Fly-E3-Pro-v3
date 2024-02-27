@@ -106,7 +106,7 @@ Watch for [updates]
 | ----- | ---- | ----- | ------ |
 | Electronics  | Fly-E3-Pro-V3 | ~40 Money  | [AliExpress](https://a.aliexpress.com/_EwY8p5L) |
 | Wireing  | 200cm each AWG14 Red & Black  | ~4 Money  | [AliExpress](https://a.aliexpress.com/_ExgydLn)  |
-|Stepper Wireing| 50cm Stepper Wire | ~1 Money | https://a.aliexpress.com/_EHGpQVX |
+|Stepper Wireing| 50cm Stepper Wire | ~1 Money |[AliExpress]( https://a.aliexpress.com/_EHGpQVX) |
 
 [🔼 Back to top](#outline)
 

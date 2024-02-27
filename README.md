@@ -106,11 +106,35 @@ Watch for [updates]
 | Electronics  | Fly-E3-Pro-V3 | ~40 Money  | [AliExpress](https://a.aliexpress.com/_EwY8p5L) |
 | Wireing  | 200cm each AWG14 Red & Black  | ~4 Money  | [AliExpress](https://a.aliexpress.com/_ExgydLn)  |
 | Wireing  | Cable Lug 3xSV2-4 & 3xSV2-5 | ~5 Money  | [AliExpress](https://a.aliexpress.com/_Exw61D7)  |
+| Wireing  | MR60 Connector | ~6 Money  | [AliExpress](https://a.aliexpress.com/_EzVy9PX)  |
 |Stepper Wireing| 50cm Stepper Wire | ~1 Money |[AliExpress]( https://a.aliexpress.com/_EHGpQVX) |
 |Stepper Wireing| 80cm Stepper Wire | ~1 Money |[AliExpress]( https://a.aliexpress.com/_EHGpQVX) |
 |(Optional)Lighting| 4*1 Bit Neopixel | ~5 Money |[AliExpress](https://a.aliexpress.com/_EIiNKDR) |
 
+##Electrical wireing
+This is the Part for the PSU-wireing to MOBO. You will need:
+- AWG 14 wires
+- MR60 Connector
+- Cable Lugs
+- Pliers
+- Wirestripper
+- Soldering iron
 
+Step 1
+Cut the wires:
+2x Red - 510mm +/-10mm
+1x Black - 510 +/-10mm
+2x Red - +/-5mm
+1x Black - +/-5mm
+
+[🔼 Back to top](#outline)
+##Modifing Extruder Ribbon-Cable
+[🔼 Back to top](#outline)
+##Modifing Mobo enclosure
+[🔼 Back to top](#outline)
+##Wireing Steppers
+[🔼 Back to top](#outline)
+- [Klipper Installation]
 [🔼 Back to top](#outline)
 
 ## Klipper Installation

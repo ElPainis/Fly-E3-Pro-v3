@@ -27,9 +27,8 @@ I am creating these files for my personal use and cannot be held responsible for
  - [Modifing Extruder Ribbon-Cable](#Modifing-Extruder-ribbon-Cable)
  - [Modifing Mobo enclosure](#Modifing-Mobo-enclosure)
  - [Wireing Steppers](#wireing-steppers)
-- [Preface](#preface)
-- [Before You Begin](#before-you-begin)
 - [Klipper Installation](#klipper-installation)
+- [Before You Begin](#before-you-begin)
   - [Flash Firmware](#flash-firmware)
   - [Download OSS Klipper Configuration](#download-oss-klipper-configuration)
 - [Initial Steps](#initial-steps)
@@ -114,6 +113,7 @@ Watch for [updates]
 
 [🔼 Back to top](#outline)
 
+## Klipper Installation
 ## Before You Begin
 
 - This entire page is a **9 minute read**. Save yourself _hours of troubleshooting_ and read this documentation fully.
@@ -133,8 +133,6 @@ Watch for [updates]
 <!-- - Link to recommended parts. -->
 
 [🔼 Back to top](#outline)
-
-## Klipper Installation
 
 ### Flash Firmware
 

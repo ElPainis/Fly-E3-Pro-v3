@@ -111,7 +111,7 @@ Watch for [updates]
 |Stepper Wireing| 80cm Stepper Wire | ~1 Money |[AliExpress]( https://a.aliexpress.com/_EHGpQVX) |
 |(Optional)Lighting| 4*1 Bit Neopixel | ~5 Money |[AliExpress](https://a.aliexpress.com/_EIiNKDR) |
 
-##Electrical wireing
+## Electrical wireing
 This is the Part for the PSU-wireing to MOBO. You will need:
 - AWG 14 wires
 - MR60 Connector
@@ -128,11 +128,11 @@ Cut the wires:
 1x Black - +/-5mm
 
 [🔼 Back to top](#outline)
-##Modifing Extruder Ribbon-Cable
+## Modifing Extruder Ribbon-Cable
 [🔼 Back to top](#outline)
-##Modifing Mobo enclosure
+## Modifing Mobo enclosure
 [🔼 Back to top](#outline)
-##Wireing Steppers
+## Wireing Steppers
 [🔼 Back to top](#outline)
 - [Klipper Installation]
 [🔼 Back to top](#outline)

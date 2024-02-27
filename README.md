@@ -27,6 +27,7 @@ I am creating these files for my personal use and cannot be held responsible for
   - [Modifing Extruder Ribbon-Cable](#Modifing-Extruder-ribbon-Cable)
   - [Modifing Mobo enclosure](#Modifing-Mobo-enclosure)
   - [Wireing Steppers](#wireing-steppers)
+  - [Hardware conversion sources](#hardware-conversion-sources)
 - [Klipper Installation](#klipper-installation)
   - [Before You Begin](#before-you-begin)
   - [Flash Firmware](#flash-firmware)
@@ -138,9 +139,9 @@ Cut the wires:
 - [Klipper Installation]
 [🔼 Back to top](#outline)
 ## Hardware conversion sources
--[Blakadder](https://sv06.blakadder.com/Parts/electronic-parts/)
--[th3dstudio](https://support.th3dstudio.com/helpcenter/ezboard-v2-sovol-sv06-stock-abl-sensor-wiring/)
--[TeamGloomy](https://teamgloomy.github.io/fly_e3_pro_v3_general.html)
+- [Blakadder](https://sv06.blakadder.com/Parts/electronic-parts/)
+- [th3dstudio](https://support.th3dstudio.com/helpcenter/ezboard-v2-sovol-sv06-stock-abl-sensor-wiring/)
+- [TeamGloomy](https://teamgloomy.github.io/fly_e3_pro_v3_general.html)
 ## Klipper Installation
 ## Before You Begin
 

@@ -21,7 +21,7 @@ I am creating these files for my personal use and cannot be held responsible for
 - [Disclaimer](#Disclaimer)
 - [Features](#features)
 - [Stay Up-to-Date](#stay-up-to-date)
-- [Hardware Conversion](#Hardware Conversion)
+- [Hardware Conversion](#Hardware-Conversion)
   - [BOM](#BOM)
   - [Electrical wireing](#electrical-wireing)
   - [Modifing Extruder Ribbon-Cable](#Modifing-Extruder-ribbon-Cable)

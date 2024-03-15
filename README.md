@@ -165,13 +165,14 @@ All described steps for the hardwareconversion follow this pattern:
 Requirements:
 - item A
 - item B
-   1. substeps 
+
 > [!NOTE]
 > A short overview what we about to do.
 
 Prodecure:
 1. description in small steps.
-2. till everything is done.
+   1. substeps in small bits...
+3. till everything is done.
 
 ## Step 1 - Electrical wiring
 Requirements:

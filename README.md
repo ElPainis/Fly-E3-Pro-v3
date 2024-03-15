@@ -450,8 +450,8 @@ Requirements:
 > [!IMPORTANT]
 > Print Settings:
 > - 0.4 Nozzle
-> - 0.1mm layerhight
-> - Solid Infill
+> - 0.1mm layerheight
+> - Solid infill
 > - Heat resistant material like PETG or ABS
 > - Place on Buildplate as in the STL
 

@@ -446,7 +446,7 @@ Requirements:
 - apply flux on the pads on the backside and apply tin. Go short and hot.
 - now place the cables over the three pads and clamp them with the helping hand very close over the pads so they cant move. Its kinda tricky because the pads are really close to each other but you can make it! Believe in yourself!
 - apply some flux again over the cables. 
-- now its time to solder the cables on the pretinned pads. I recommend starting with DIN and work your way to GND. But it honestly doesnt matter where you start as long as you get the job done and dont burn the insulation. So very short and hot is how you can get this job done. 🟡=In 🔴=5V ⚫=GND
+- now its time to solder the cables on the pretinned pads. I recommend starting with DIN and work your way to GND. But it honestly doesnt matter where you start as long as you get the job done and dont burn the insulation. So very short and hot is how you can get this job done. 🟡=In 🔴=5V ⚫=GND Mind the 🖼️[Hotend PCB pinout](#Hotend-PCB-pinout)
 - check for shorts. If everything seems fine lay it aside.
 - Installation
    1. I recommend to install Klipper first, test the Neopixel without holder and then proceed. But you can do as well.
@@ -455,6 +455,9 @@ Requirements:
    4. While the glue is setting you can route the cables through the small groove using the pliers.
    5. after waiting for the glue to dry screw the holder into the two provided holes for the former partcooler and connect the neopixel to the printhead PCB. Mind the correct wiring, switch if necessary. I the cable is a little too long you can route it behind the PCB and then plug the connector in.
    6. secure the cable with a small ziptie on the probes cable to it cant touch the heating block.
+
+### Hotend PCB pinout
+<img scr="https://github.com/bassamanator/everything-sovol-sv06/blob/main/images/hotend-pcb-labelled.png" height="250">
 
 🆒 Congrats you added RGB, quality of live and level of coolness improved 😎
 

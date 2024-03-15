@@ -665,7 +665,6 @@ This repository contains many files and folders. Some are _necessary_ for this K
 
 ```sh
 ├── cfgs/ ✅
-├── stl/ 💠
 ├── CODE_OF_CONDUCT.md 💠
 ├── CONTRIBUTING.md 💠
 ├── .git/ ✅❔
@@ -674,6 +673,7 @@ This repository contains many files and folders. Some are _necessary_ for this K
 ├── images/ 💠
 ├── LICENSE 💠
 ├── misc/ 💠
+├── stl/ 💠
 ├── moonraker.conf ✅
 ├── osskc.cfg ✅
 ├── printer.cfg ✅

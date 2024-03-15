@@ -445,7 +445,15 @@ Requirements:
 > We are going to solder the wires in the Mini-Neopixel, glue it on the holder and then install it.
 
 > [!IMPORTANT]
-> to fullfil this step soldering skills beyond beginners level are required. I assume you had at least practiced once soldering on PCB's. 
+> to fullfil this step soldering skills beyond beginners level are required. I assume you had at least practiced once soldering on PCB's.
+
+> [!IMPORTANT]
+> Print Settings:
+> - 0.4 Nozzle
+> - 0.1mm layerhight
+> - Solid Infill
+> - Heat resistant material like PETG or ABS
+> - Place on Buildplate as in the STL
 
 1. Soldering
 - place the Neopixel in the helping hand and clamp it down.

@@ -156,7 +156,7 @@ For myself I'm not very familiar with crimping small connectors, neither I have 
 | ⚙️ | Soldering | Alternative to Dupont wires | ~ 20 Money | [Local Amazon](https://www.amazon.de/dp/B0CLD7S5VC/?coliid=I2OEUBWMZKO5ZB&colid=3AEFYUODSS1J9&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)|
 | ⚙️ |Stepper wiring| 50cm Stepper Wire | ~1 Money |[AliExpress]( https://a.aliexpress.com/_EHGpQVX) |
 | ⚙️ |Stepper wiring| 80cm Stepper Wire | ~1 Money |[AliExpress]( https://a.aliexpress.com/_EHGpQVX) |
-| :large_blue_diamond::small_orange_diamond: |Lighting| 4*1 Bit Neopixel | ~5 Money |[AliExpress](https://a.aliexpress.com/_EIiNKDR) |
+| :large_blue_diamond::small_orange_diamond: |Lighting| 4*1 Bit Neopixel | ~5 Money |[AliExpress](https://de.aliexpress.com/item/32962174474.html) |
 | :heavy_check_mark: |Motivation| At least seven cookies or bits of sweets and a cup of hot drink 🍪🍬 | Depents on your taste |Anywhere |
 
 

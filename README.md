@@ -148,7 +148,7 @@ For myself I'm not very familiar with crimping small connectors, neither I have 
 | ⚙️ |Stepper wiring| 50cm Stepper Wire | ~1 Money |[AliExpress]( https://a.aliexpress.com/_EHGpQVX) |
 | ⚙️ |Stepper wiring| 80cm Stepper Wire | ~1 Money |[AliExpress]( https://a.aliexpress.com/_EHGpQVX) |
 | :large_blue_diamond::small_orange_diamond: |Lighting| 4*1 Bit Neopixel | ~5 Money |[AliExpress](https://a.aliexpress.com/_EIiNKDR) |
-| :heavy_check_mark: |Motivation| Xx cookies or sweets and a cup of hot drink 🍪🍬 | ~5 Money |Anywhere |
+| :heavy_check_mark: |Motivation| At least seven cookies or bits of sweets and a cup of hot drink 🍪🍬 | Depents on your taste |Anywhere |
 
 
 All described steps for the hardwareconversion follow this pattern:
@@ -425,6 +425,7 @@ Procedure:
 <img src="./images/Frame.png" height="250">
 
 🥳 Congrats your conversion seems to be successfull at this point 🥳
+🍪🍬 DONE. Time for a cup of hot drink and a bunch of cookies or sweets. 🍪🍬
 
 [🔼 Back to top](#outline)
 
@@ -468,8 +469,8 @@ Requirements:
    2. route the cables in the grove with the pliers and gently press the PCB down till everything fits. Its fiddly and timeconsuming but its worth the trouble. Dont use any more force then like while holding a pen for writing. If there is alot of resistance lift the PCB and reroute the cables. The PCB should go in with a slight click.
    3. Everything sits nice, lift it again and apply two drops of superglue to fix the PCB on the holder. Press it on with moderate force for 30 seconds and let it set for 4 hours.
    4. While the glue is setting you can route the cables through the small groove using the pliers.
-   5. after waiting for the glue to dry screw the holder into the two provided holes for the former partcooler and connect the neopixel to the printhead PCB. Mind the correct wiring, switch if necessary using the pliers to lift the small platic noses. I the cable is a little too long you can route it behind the PCB and then plug the connector in. Mind the 🖼️[Hotend PCB pinout @ P7](#Hotend-PCB-pinout) so your JST-connector should go  🔴=UP ⚫=MIDDLE 🟡=DOWN
-   6. secure the cable with a small ziptie on the probes cable to it cant touch the heating block.
+   5. after waiting for the glue to dry screw the holder into the two provided holes for the former partcooler and connect the neopixel to the printhead PCB. Mind the correct wiring, switch if necessary using the pliers to lift the small platic noses. I the cable is a little too long you can route it behind the PCB and then plug the connector in. Mind the 🖼️[Hotend PCB pinout @ P7](#Hotend-PCB-pinout) so your JST-connector should go  🔴=V ⚫=G 🟡=S
+   6. secure the cable with a small ziptie on the probes cable so it cant touch the heater block.
 
 ### Hotend PCB pinout
 

@@ -465,7 +465,7 @@ Requirements:
 
 ### Hotend PCB pinout
 
-<img scr="https://www.sovol3d.com/cdn/shop/files/SovolSV06AdapterBoardPCBBreakoutModule_AdapterBoard-MainboardRibboncable.png" height="250"/>
+<img src="https://teamgloomy.github.io/images/fly_e3_prov3_pins.svg" height="250">
 
 
 🆒 Congrats you added RGB, quality of live and level of coolness improved 😎

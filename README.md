@@ -1,6 +1,4 @@
-# CURRENT STATE:
-# ✔️ UNDER APPROVAL, CHANGES MAY ACCOR ☑️
-
+CURRENT STATE: Releasecandidate V1.0 and under constant improvment
 
 # ⚠️⚙️ Sovol SV06/+ Fly-E3-PRO-V3 conversion ⚙️⚠️
 

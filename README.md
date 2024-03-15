@@ -113,6 +113,7 @@ Even though I tried to make everything as easy as possible the prequesition is a
 ## Stay Up-to-Date
 
 ${\normalsize{\textcolor{goldenrod}{\texttt{Star ⭐ this project.}}}}$
+![](./images/githubstar.gif)
 
 Watch for [updates]
 

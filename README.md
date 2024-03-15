@@ -466,7 +466,7 @@ Requirements:
 ### Hotend PCB pinout
 
 
-<img scr="https://github.com/bassamanator/everything-sovol-sv06/blob/main/images/hotend-pcb-labelled.png" height="250"/>
+<img scr="https://github.com/bassamanator/everything-sovol-sv06/blob/main/images/hotend-pcb-labelled.png?raw=true" height="250"/>
 
 
 🆒 Congrats you added RGB, quality of live and level of coolness improved 😎

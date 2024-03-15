@@ -460,7 +460,7 @@ Requirements:
    2. route the cables in the grove with the pliers and gently press the PCB down till everything fits. Its fiddly and timeconsuming but its worth the trouble. Dont use any more force then like while holding a pen for writing. If there is alot of resistance lift the PCB and reroute the cables. The PCB should go in with a slight click.
    3. Everything sits nice, lift it again and apply two drops of superglue to fix the PCB on the holder. Press it on with moderate force for 30 seconds and let it set for 4 hours.
    4. While the glue is setting you can route the cables through the small groove using the pliers.
-   5. after waiting for the glue to dry screw the holder into the two provided holes for the former partcooler and connect the neopixel to the printhead PCB. Mind the correct wiring, switch if necessary using the pliers to lift the small platic noses. I the cable is a little too long you can route it behind the PCB and then plug the connector in. Mind the 🖼️[Hotend PCB pinout @ P7](#Hotend-PCB-pinout) so your JST-connector should go  🔴=UP 🟡=MIDDLE ⚫=DOWN
+   5. after waiting for the glue to dry screw the holder into the two provided holes for the former partcooler and connect the neopixel to the printhead PCB. Mind the correct wiring, switch if necessary using the pliers to lift the small platic noses. I the cable is a little too long you can route it behind the PCB and then plug the connector in. Mind the 🖼️[Hotend PCB pinout @ P7](#Hotend-PCB-pinout) so your JST-connector should go  🔴=UP ⚫=MIDDLE 🟡=DOWN
    6. secure the cable with a small ziptie on the probes cable to it cant touch the heating block.
 
 ### Hotend PCB pinout

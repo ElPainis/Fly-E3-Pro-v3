@@ -1,4 +1,4 @@
-CURRENT STATE: Releasecandidate V1.0 and under constant improvment
+${\small{\textcolor{darkgrey}{\texttt{Release: V1.0 WIP}}}}$
 
 # ⚠️⚙️ Sovol SV06/+ Fly-E3-PRO-V3 conversion ⚙️⚠️
 

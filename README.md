@@ -534,16 +534,12 @@ Clock Reference (8 MHz crystal)  --->
 
 ## Flash Firmware
 > [!TIP] 
-> I recommend using [Katapult](https://github.com/Arksine/katapult) as flash method. It's **not necessary** but a quality of live upgrade as you dont have to use SD-Cards anymore, once you set it up. It comes handy when Klipper-Updates go live and you want to use new features which require firmeware updates. You can easily flash firmeware via the SSH-Console not even touching the MOBO or printer.
->
-> But a wise man told me once:
-'We have different tastes and different preferences.
->
->Mind the follow changes in firmeware compilation:
-
+> I recommend using [Katapult](https://github.com/Arksine/katapult). It's **not necessary** but a quality of live upgrade as you dont have to use SD-Cards anymore, once you set it up. It comes really handy when Klipper-Updates go live and you want to use new features which require firmeware updates. You can easily flash firmeware via the SSH-Console not even touching the MOBO or printer.
+> Mind the follow changes in firmeware compilation:
 > Bootloader offset (32KiB bootloader)  --->
->
 > USB ids  --->
+> 
+Flash via SD-Card by putting the SD-Card in the reader and turn on the machine. Wait ~30 seconds. Then turn the machine off and unplug the SD-Card.
 
 ⏲️ At this point, it's not possible to tell with certainty whether your flash was successful, continue on with the guide.
 

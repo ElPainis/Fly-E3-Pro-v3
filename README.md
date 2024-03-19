@@ -2,7 +2,7 @@ ${\small{\textcolor{darkgrey}{\texttt{Release: V1.0 WIP}}}}$
 
 # ⚠️⚙️ Sovol SV06/+ Fly-E3-PRO-V3 conversion ⚙️⚠️
 
-This branch contains the Klipper configuration and firmware for the **Sovol SV06** 3D printer.
+This branch contains guide for the hardwareconversion for the Fly-E3-PRO-V3 & Klipper firmware for the **Sovol SV06** 3D printer.
 
 | Printer                                                         | Branch                                                                                    |
 | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |

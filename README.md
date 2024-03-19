@@ -533,16 +533,17 @@ Clock Reference (8 MHz crystal)  --->
 ()  GPIO pins to set at micro-controller startup
 
 ## Flash Firmware
-I recommend using [Katapult](https://github.com/Arksine/katapult) as flash method. It's **not necessary** but a quality of live upgrade as you dont have to use SD-Cards anymore, once you set it up. It comes handy when Klipper-Updates go live and you want to use new features which require firmeware updates. You can easily flash firmeware via the SSH-Console not even touching the MOBO or printer.
+> [!TIP] 
+> I recommend using [Katapult](https://github.com/Arksine/katapult) as flash method. It's **not necessary** but a quality of live upgrade as you dont have to use SD-Cards anymore, once you set it up. It comes handy when Klipper-Updates go live and you want to use new features which require firmeware updates. You can easily flash firmeware via the SSH-Console not even touching the MOBO or printer.
+>
+> But a wise man told me once:
+'We have different tastes and different preferences.
+>
+>Mind the follow changes in firmeware compilation:
 
-But a wise man once told me:
-'We have different tastes and different preferences.' So you dont have to use it.
-
-Mind the follow changes in firmeware compilation:
-
-Bootloader offset (32KiB bootloader)  --->
-
-USB ids  --->
+> Bootloader offset (32KiB bootloader)  --->
+>
+> USB ids  --->
 
 ⏲️ At this point, it's not possible to tell with certainty whether your flash was successful, continue on with the guide.
 

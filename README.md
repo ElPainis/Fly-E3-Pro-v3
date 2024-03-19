@@ -13,7 +13,7 @@ This branch contains guide for the hardwareconversion for the Fly-E3-PRO-V3 & Kl
 | All other printers                                              | [any-printer](https://github.com/bassamanator/Sovol-SV06-firmware/tree/any-printer)       |
 
 
-This GitHub contains the hardware conversion guide & Klipper configuration for the **Sovol SV06 Fly-E3-Pro-v3** and the Klipper-Config based on Bassamanators branch. The hardware conversion should fit the SV06+ but is untested yet. For more check out [Bassamanators](https://github.com/bassamanator/Sovol-SV06-firmware/tree/master) GitHub:
+This GitHub contains the hardware conversion guide & **Sovol SV06 Fly-E3-Pro-v3** Klipper-Config based on Bassamanators branch. The hardware conversion should fit the SV06+ but is untested yet. SV06+ Klipper Config is WIP. For more check out [Bassamanators](https://github.com/bassamanator/Sovol-SV06-firmware/tree/master) GitHub:
 
 **A short preview about what can you expect:**
 

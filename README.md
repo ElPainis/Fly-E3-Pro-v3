@@ -547,22 +547,7 @@ Flash via SD-Card by putting the SD-Card in the reader and turn on the machine. 
 
 ## Download OSS Klipper Configuration
 
-## Method 1: Clone the Repository
-
-💡 Make sure `git` is installed (`sudo apt update && sudo apt install git`).
-
-1. `cd ~/printer_data/config`
-2. Empty entire `~/printer_data/config` folder.
-   - In linux, you can delete files via `rm fileName` and directories via `rmdir directoryName`.
-   - In linux, you can list files and folders via `ls -lah`.
-3. `git clone -b master --single-branch https://github.com/bassamanator/Sovol-SV06-firmware.git .` ⚠️ Don't miss the period!
-
-## Method 2: Download the ZIP
-
-1. [Download](https://github.com/bassamanator/Sovol-SV06-firmware/archive/refs/heads/master.zip) the `ZIP` file containing the Klipper configuration.
-2. See `Step 2` in `Method 1`.
-3. The parent folder in the `ZIP` is `Sovol-SV06-firmware-master`. This is relevant in the next step.
-4. Extract **only** the _contents_ of the parent folder into `~/printer_data/config`.
+Download the necessary Klipper files from this reposity and add them to your Klipper-Host.
 
 [🔼 Back to top](#outline)
 

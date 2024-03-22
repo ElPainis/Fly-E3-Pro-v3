@@ -547,7 +547,11 @@ Flash via SD-Card by putting the SD-Card in the reader and turn on the machine. 
 
 ## Download OSS Klipper Configuration
 
-Download the necessary Klipper files from this reposity and add them to your Klipper-Host.
+Download the necessary Klipper files from this reposity and add them to your Klipper-Host:
+- printer.config
+- moonraker.config
+- ossc.config
+- whole cfgs-directory
 
 [🔼 Back to top](#outline)
 

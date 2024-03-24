@@ -546,13 +546,18 @@ Flash via SD-Card by putting the SD-Card in the reader and turn on the machine. 
 [🔼 Back to top](#outline)
 
 ## Download OSS Klipper Configuration
-
-Download the necessary Klipper files from this reposity and add them to your Klipper-Host:
+### Methode 1
+1. [ZIP-File](./KLIPPER/Firmware.zip) containing the Klipper files from this repository
+2. add them to your Klipper-Host under `MACHINE` in Mainsail
+### Methode 2
+1. Download the Klipper files contained in the folder `KLIPPER` from this repository manualy
 - printer.cfg
 - moonraker.cfg
 - osskc.cfg
 - adxl-direct.cfg
 - whole cfgs-directory
+2. add them to your Klipper-Host under `MACHINE` in Mainsail
+
 
 [🔼 Back to top](#outline)
 

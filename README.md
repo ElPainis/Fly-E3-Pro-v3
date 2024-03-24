@@ -687,19 +687,21 @@ This repository contains many files and folders. Some are _necessary_ for this K
 <!-- tree -a -C -I '.directory' -L 1 -F -->
 
 ```sh
-├── cfgs/ ✅
+
 ├── CODE_OF_CONDUCT.md 💠
 ├── CONTRIBUTING.md 💠
 ├── .git/ ✅❔
 ├── .github/ 💠
 ├── .gitignore ✅❔
-├── images/ 💠
+├── .images/ 💠
+├── .KLIPPER 💠
+├── ..cfgs/ ✅
+├── ...moonraker.conf ✅
+├── ...osskc.cfg ✅
+├── ...printer.cfg ✅
 ├── LICENSE 💠
-├── misc/ 💠
-├── stl/ 💠
-├── moonraker.conf ✅
-├── osskc.cfg ✅
-├── printer.cfg ✅
+├── .misc/ 💠
+├── .stl/ 💠
 ├── README.md 💠
 ├── SECURITY.md 💠
 └── .vscode/ 💠

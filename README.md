@@ -546,17 +546,23 @@ Flash via SD-Card by putting the SD-Card in the reader and turn on the machine. 
 [🔼 Back to top](#outline)
 
 ## Download OSS Klipper Configuration
-### Method 1
-1. [ZIP-File](./KLIPPER/Firmware.zip) containing the Klipper files from this repository
-2. add them to your Klipper-Host under `MACHINE` in Mainsail
-### Method 2
-1. Download the Klipper files contained in the folder `KLIPPER` from this repository manualy
-- printer.cfg
-- moonraker.cfg
-- osskc.cfg
-- adxl-direct.cfg
-- whole cfgs-directory
-2. add them to your Klipper-Host under `MACHINE` in Mainsail
+### Method 1: Clone the Repository
+
+💡 Make sure git is installed (sudo apt update && sudo apt install git).
+
+    cd ~/printer_data/config
+    Empty entire ~/printer_data/config folder.
+        In linux, you can delete files via rm fileName and directories via rmdir directoryName.
+        In linux, you can list files and folders via ls -lah.
+    git clone -b master --single-branch https://github.com/ElPainis/Sovol-SV06-Fly-E3-Pro-v3-Hardware-conversion-firmware . ⚠️ Don't miss the period!
+
+### Method 2: Download the ZIP
+
+    Download the ZIP file containing the Klipper configuration.
+    See Step 2 in Method 1.
+    The parent folder in the ZIP is Sovol-SV06-firmware-master. This is relevant in the next step.
+    Extract only the contents of the parent folder into ~/printer_data/config.
+
 
 
 [🔼 Back to top](#outline)

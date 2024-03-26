@@ -441,7 +441,7 @@ Procedure:
 
 ##  Step 7 - Optional Neopixel
 Requirements:
-- printed LED-holder (STL is in Folder 'STL')
+- printed LED-holder (STL is in Folder 'misc/STL')
 - Helping Hand
 - flux
 - Solder iron

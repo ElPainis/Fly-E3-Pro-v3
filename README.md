@@ -495,9 +495,11 @@ Requirements:
 [🔼 Back to top](#outline)
 
 ## Hardware conversion sources
+- [Bassamanator](https://github.com/bassamanator/everything-sovol-sv06)
 - [Blakadder](https://sv06.blakadder.com/Parts/electronic-parts/)
-- [th3dstudio](https://support.th3dstudio.com/helpcenter/ezboard-v2-sovol-sv06-stock-abl-sensor-wiring/)
 - [TeamGloomy](https://teamgloomy.github.io/fly_e3_pro_v3_general.html)
+- [th3dstudio](https://support.th3dstudio.com/helpcenter/ezboard-v2-sovol-sv06-stock-abl-sensor-wiring/)
+
 # Klipper Installation
 ## Before You Begin
 

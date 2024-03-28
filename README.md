@@ -483,7 +483,7 @@ Requirements:
    5. after waiting for the glue to dry screw the holder into the two provided holes for the former partcooler and connect the neopixel to the printhead PCB. Mind the correct wiring, switch if necessary using the pliers to lift the small platic noses. I the cable is a little too long you can route it behind the PCB and then plug the connector in. Mind the 🖼️[Hotend PCB pinout @ P7](#Hotend-PCB-pinout) so your JST-connector should go  🔴=V ⚫=G 🟡=S
    6. secure the cable with a small ziptie on the probes cable so it cant touch the heater block.
 4. Testing
-   1. See step 7 at [setup Klipper](#Configure-Your-printer-and-initial-setup).
+   1. See 8 at [setup Klipper](#Configure-Your-printer-and-initial-setup).
 
 ### Hotend PCB pinout
 

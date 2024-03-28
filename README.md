@@ -556,11 +556,11 @@ Flash via SD-Card by putting the SD-Card in the reader and turn on the machine. 
 2. Empty entire ~/printer_data/config folder.
 - In linux, you can delete files via rm fileName and directories via rmdir directoryName.
 - In linux, you can list files and folders via ls -lah.
-3. `git clone -b master --single-branch https://github.com/ElPainis/Sovol-SV06-Fly-E3-Pro-v3-Hardware-conversion-firmware .` ⚠️ Don't miss the period!
+3. `git clone -b master --single-branch https://github.com/ElPainis/Fly-E3-Pro-v3.git .` ⚠️ Don't miss the period!
 
 ### Method 2: Download the ZIP
 
-1. [Download](https://github.com/ElPainis/Sovol-SV06-Fly-E3-Pro-v3-Hardware-conversion-firmware.git/archive/refs/heads/main.tar.gz) the `ZIP` file containing the Klipper configuration.
+1. [Download](https://github.com/ElPainis/Fly-E3-Pro-v3.git/archive/refs/heads/main.tar.gz) the `ZIP` file containing the Klipper configuration.
 2. See `Step 2` in `Method 1`.
 3. The parent folder in the `ZIP` is Sovol-SV06-firmware-master. This is relevant in the next step.
 4. Extract only the contents of the parent folder into `~/printer_data/config.`

@@ -1,4 +1,4 @@
-${\small{\textcolor{darkgrey}{\texttt{Release: V1.0 WIP}}}}$
+${\small{\textcolor{darkgrey}{\texttt{Release: V1.02 WIP}}}}$
 
 # ⚠️⚙️ Sovol SV06/+ Fly-E3-PRO-V3 conversion ⚙️⚠️
 
@@ -13,7 +13,7 @@ This branch contains guide for the hardwareconversion for the Fly-E3-PRO-V3 & Kl
 | All other printers                                              | [any-printer](https://github.com/bassamanator/Sovol-SV06-firmware/tree/any-printer)       |
 
 
-This GitHub contains the hardware conversion guide & **Sovol SV06 Fly-E3-Pro-v3** Klipper-Config based on Bassamanators branch. The hardware conversion should fit the SV06+ but is untested yet. SV06+ Klipper Config is WIP. For more check out [Bassamanators](https://github.com/bassamanator/Sovol-SV06-firmware/tree/master) GitHub:
+This GitHub contains the hardware conversion guide & **Sovol SV06 Fly-E3-Pro-v3** Klipper-config based on Bassamanators branch. The hardware conversion should fit the SV06+ but is untested yet. SV06+ Klipper Config is WIP. For more check out [Bassamanators](https://github.com/bassamanator/Sovol-SV06-firmware/tree/master) GitHub:
 
 **A short preview about what can you expect:**
 
@@ -22,9 +22,9 @@ This GitHub contains the hardware conversion guide & **Sovol SV06 Fly-E3-Pro-v3*
 
 
 
-![](./images/GIF_20240314_114941_187.gif)
-![](./images/GIF_20240314_115443_681.gif)
-![](./images/GIF_20240314_120219_911.gif)
+![](./misc/images/GIF_20240314_114941_187.gif)
+![](./misc/images/GIF_20240314_115443_681.gif)
+![](./misc/images/GIF_20240314_120219_911.gif)
 
 I am creating these files for my personal use and cannot be held responsible for what it might do to your printer. Use at your own risk.
 
@@ -123,7 +123,7 @@ Even though I tried to make everything as easy as possible the prequesition is a
 
 ${\normalsize{\textcolor{goldenrod}{\texttt{Star ⭐ this project.}}}}$
 
-![](./images/githubstar.gif)
+![](./misc/images/githubstar.gif)
 
 Watch for [updates]
 
@@ -276,7 +276,7 @@ schematic 1: <img src="https://sv06.blakadder.com/images/sch_printheadcable.jpg"
 
 (click for lager picture)
 
-schematic 2: <img src="./images/Ribbon%20Cable.png" height="250">
+schematic 2: <img src="./misc/images/Ribbon%20Cable.png" height="250">
 
 (click for lager picture)
 
@@ -297,7 +297,7 @@ Procedure:
 
 Mind the pinout mentionend in the pictures below.
 
-<img src="./images/ymk4jvu6.png" height="250"> <img src="./images/Mellow-Gloomy-FLY-RRF-E3-PRO-V-3-0-Wifi-1-6-M-S-32Bit-Control.png" height="250"> <img src="https://teamgloomy.github.io/images/fly_e3_prov3_pins.svg" height="250">
+<img src="./misc/images/ymk4jvu6.png" height="250"> <img src="./misc/images/Mellow-Gloomy-FLY-RRF-E3-PRO-V-3-0-Wifi-1-6-M-S-32Bit-Control.png" height="250"> <img src="https://teamgloomy.github.io/images/fly_e3_prov3_pins.svg" height="250">
 
 > [!CAUTION]
 > I strongly recommend to check wiring with the multimeter and the toolhead pcb if everything is wired up correctly before calling this done.
@@ -319,7 +319,7 @@ Procedure:
 2. Sand the holes with the file ~1 up 2mm wider so the USB-connector and SD-Card-slot fit of the Fly-Mobo fit.
 3. Test if the Fly mobo fits into the enclosure. If not check for for connectors especially the SD-slot as it stand out alot, I had to take a few tries getting it right.
 4. If all is nice and snuggely clean the enclosure with water and dry it.
-<img src="./images/MoboEnclosure_Sanding.png" height="250">
+<img src="./misc/images/MoboEnclosure_Sanding.png" height="250">
 
 🍪🍬 DONE. Time for a cup of hot drink and a cookie or a sweet. 🍪🍬
 
@@ -347,7 +347,7 @@ Procedure:
 
 If youre successfull it should look like this:
 
-<img src="./images/IMG20240304154322.jpg" height="250"> <img src="./images/IMG20240304154144.jpg" height="250"> <img src="./images/IMG20240304154148.jpg" height="250">
+<img src="./misc/images/IMG20240304154322.jpg" height="250"> <img src="./misc/images/IMG20240304154144.jpg" height="250"> <img src="./misc/images/IMG20240304154148.jpg" height="250">
 
 🍪🍬 DONE. Time for a cup of hot drink and a cookie or a sweet. 🍪🍬
 
@@ -429,10 +429,10 @@ Procedure:
    6. close the mainboard enclosure.
 
 ### wiring diagram
-<img src="./images/Mellow-Gloomy-FLY-RRF-E3-PRO-V-3-0-Wifi-1-6-M-S-32Bit-Control.png" height="250">
+<img src="./misc/images/Mellow-Gloomy-FLY-RRF-E3-PRO-V-3-0-Wifi-1-6-M-S-32Bit-Control.png" height="250">
 
 ### frame visualization
-<img src="./images/Frame.png" height="250">
+<img src="./misc/images/Frame.png" height="250">
 
 🥳 Congrats your conversion seems to be successfull at this point 🥳
 🍪🍬 DONE. Time for a cup of hot drink and a bunch of cookies or sweets. 🍪🍬
@@ -699,15 +699,12 @@ This repository contains many files and folders. Some are _necessary_ for this K
 ├── .git/ ✅❔
 ├── .github/ 💠
 ├── .gitignore ✅❔
-├── .images/ 💠
-├── .KLIPPER 💠
-├── ..cfgs/ ✅
-├── ...moonraker.conf ✅
-├── ...osskc.cfg ✅
-├── ...printer.cfg ✅
+├── cfgs/ ✅
+├── moonraker.conf ✅
+├── osskc.cfg ✅
+├── printer.cfg ✅
 ├── LICENSE 💠
-├── .misc/ 💠
-├── .stl/ 💠
+├── misc/ 💠
 ├── README.md 💠
 ├── SECURITY.md 💠
 └── .vscode/ 💠

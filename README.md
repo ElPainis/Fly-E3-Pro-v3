@@ -213,7 +213,7 @@ The result should look like this:
 🍪🍬 DONE. Time for a cup of hot drink and a cookie or a sweet. 🍪🍬
 
 [🔼 Back to top](#outline)
-## Step 2 - Disassemble
+## Step 2 - Disassembly
 
 Requirements:
 - Pliers
@@ -230,22 +230,23 @@ Procedure:
 4. unscrew the hot bed terminals. 
 5. unplug the hot bed thermistor.
 6. unplug all stepper motor cables.
-7. cut and remove the zipties in the two bottom outlets that hold the cables **be careful not to cut a wire accidently.**
-8. gently remove all wires from the bottom outlets.
+7. unplug 'touch screen'
+8. cut and remove the zipties in the two bottom outlets that hold the cables **be careful not to cut a wire accidently.**
+9. gently remove all wires from the bottom outlets.
     1. Stepper motor cables
     2. Hot bed
-9. unplug the ribbon-cable from the extruder-pcb
+10. unplug the ribbon-cable from the extruder-pcb
     1. unplug Nozzle thermistor.
     2. unscrew the nozzle 24V terminals.
     3. unscrew the normal fan 24V terminals.
     4. unplug the controllable fan.
-10. close the enclosure and hold it closed. Then unlock mobo-enclosure and remove the enclosure with the ribbon cable from the printers frame.
-11. place the motherboard enclosure on a flat surface and open it again to proceed. 
-11. cut the ziptie that hold the extruder-ribbon-cable, **Carefully again not to cut a wire accidently.**
-12. disassemble the ribbon-cable from the mobo and the enclosure.
-13. unscrew the four motherboard screws. Store the motherboard somewhere. If your conversion is successful you wount need it anymore. Keep the screws!
-13. back to the printer the Y-motor-cable and dual-Z-motor-cable are taped together. Gently peel of the tape so they're seperated after.
-14. remove the Dual-Z-stepper-cable and store it somewhere. If the conversion is sucessful you wount need it anymore.
+11. close the enclosure and hold it closed. Then unlock mobo-enclosure and remove the enclosure with the ribbon cable from the printers frame.
+12. place the motherboard enclosure on a flat surface and open it again to proceed. 
+13. cut the ziptie that hold the extruder-ribbon-cable, **Carefully again not to cut a wire accidently.**
+14. disassemble the ribbon-cable from the mobo and the enclosure.
+15. unscrew the four motherboard screws. Store the motherboard somewhere. If your conversion is successful you wount need it anymore. Keep the screws!
+15. back to the printer the Y-motor-cable and dual-Z-motor-cable are taped together. Gently peel of the tape so they're seperated after.
+16. remove the Dual-Z-stepper-cable and store it somewhere. If the conversion is sucessful you wount need it anymore.
 
 ### Sovol SV06 Pinout
 <img src="https://www.sovol3d.com/cdn/shop/files/SovolSV06Silentmainboardwiringdiagram_SovolSV06PlusSilentmainboardwiringdiagram.png?v=1698308370" height="250">

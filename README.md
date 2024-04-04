@@ -495,11 +495,7 @@ Requirements:
 
 The result should look like:
 
-<img src="./misc/images/LED-HolderF.png" height="250">
-<img src="./misc/images/LED-HolderL.png" height="250">
-<img src="./misc/images/LED-HolderLD.png" height="250">
-<img src="./misc/images/LED-HolderLU.png" height="250">
-<img src="./misc/images/LED-HolderRD.png" height="250">
+<img src="./misc/images/LED-HolderF.png" height="250"> <img src="./misc/images/LED-HolderL.png" height="250"> <img src="./misc/images/LED-HolderLD.png" height="250"> <img src="./misc/images/LED-HolderLU.png" height="250"> <img src="./misc/images/LED-HolderRD.png" height="250">
 
 **For a 3D-visualization check on [this](./misc/stl/ExtruderLEDHolderAssembly.stl).**
 

@@ -130,10 +130,10 @@ Watch for [updates]
 ## BOM
 
 This BOM is meant to give you an overview and some recommendation what is needed. Some parts are essential,  some can be done by DIY. Some there are a few parts with prequesitions. I marked them with the following pattern:
-- essential :heavy_check_mark:
-- DIY ⚙️
-- prequesition :large_blue_diamond:
-- optional: :small_orange_diamond:
+- basic requirement: :heavy_check_mark:
+- can be done by DIY: ⚙️
+- has prequesition: :large_blue_diamond:
+- not necessary for the conversion, optional: :small_orange_diamond:
 
 > [!CAUTION]
 > ⚡ If you like to improvise: Dont improvise on the wiring. Use at least a diameter of AWG14 or 2,0mm². Thinner cables lead to a non reliable voltage supply for to mobo with may unexpected behavior or worse. ⚡

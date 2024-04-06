@@ -130,34 +130,31 @@ Watch for [updates]
 ## BOM
 
 This BOM is meant to give you an overview and some recommendation what is needed. Some parts are essential,  some can be done by DIY. Some there are a few parts with prequesitions. I marked them with the following pattern:
-- basic requirement: :heavy_check_mark:
-- can be done by DIY: ⚙️
-- has prequesition: :large_blue_diamond:
-- not necessary for the conversion, optional: :small_orange_diamond:
+- essential :heavy_check_mark:
+- DIY ⚙️
+- prequesition :large_blue_diamond:
+- optional: :small_orange_diamond:
 
 > [!CAUTION]
 > ⚡ If you like to improvise: Dont improvise on the wiring. Use at least a diameter of AWG14 or 2,0mm². Thinner cables lead to a non reliable voltage supply for to mobo with may unexpected behavior or worse. ⚡
 
-| Level of essential | Needed for Step  | Part Name | Price | Source |
+| Essential | Need for Step  | Part | Price | Source |
 | ----- | ----- | ---- | ----- | ------ |
-| :heavy_check_mark: | (6) Assembly  | Fly-E3-Pro-V3 | ~40 Money  | [AliExpress](https://a.aliexpress.com/_EwY8p5L) |
-| :heavy_check_mark: | (1) Electrical wiring | 200cm each AWG14 Red & Black  | ~4 Money  | [AliExpress](https://a.aliexpress.com/_ExgydLn)  |
-| :heavy_check_mark: | (1) Electrical wiring  | Cable Lug 3xSV2-4 & 3xSV2-5 | ~5 Money  | [AliExpress](https://a.aliexpress.com/_Exw61D7)  |
-| :heavy_check_mark: | (1) Electrical wiring   | MR60 Connector | ~6 Money  | [AliExpress](https://a.aliexpress.com/_EzVy9PX)  |
-| :heavy_check_mark: | (1) Electrical wiring   | Wire sleeve (8mm ID) | ~1 Money  | [AliExpress](https://a.aliexpress.com/_EJrBNvF)  |
-| :heavy_check_mark: | (1) Electrical wiring  | Zipties 3.6mm width | ~2 Money  | [AliExpress](https://de.aliexpress.com/item/1005004666948984.html?spm=a2g0o.order_list.order_list_main.53.6abb5c5f54HL53&gatewayAdapt=glo2deu)  |
-| :heavy_check_mark: | (1) Electrical wiring   | Zipties 2.5mm width | ~2 Money  | [AliExpress](https://de.aliexpress.com/item/1005004666948984.html?spm=a2g0o.order_list.order_list_main.53.6abb5c5f54HL53&gatewayAdapt=glo2deu)  |
-| :small_orange_diamond: | (3) Modifing Extruder Ribbon-Cable | Mainboard Ribbon Cable | ~ 12 Money | [Sovol](https://www.sovol3d.com/products/sovol-sv06-adapter-board-pcb-breakout-module-adapter-board-mainboard-ribbon-cable)|
-| ⚙️ | (3) Modifing Extruder Ribbon-Cable | 2x JST XH 2,54 2pins | ~ 1 Money | [AliExpress](https://de.aliexpress.com/item/32954418743.html?spm=a2g0o.order_list.order_list_main.29.564d5c5ftA02wT&gatewayAdapt=glo2deu)|
-| ⚙️ | (3) Modifing Extruder Ribbon-Cable | 1x 5pin Female Dupont with wires | ~ 3 Money | [AliExpress](https://de.aliexpress.com/item/1005003638697583.html?spm=a2g0o.productlist.main.49.24cdbhKKbhKKDx&algo_pvid=dc7d4394-075d-4b5c-b441-6d431405c723&aem_p4p_detail=2024030500532316694723415837460000029320&algo_exp_id=dc7d4394-075d-4b5c-b441-6d431405c723-24&pdp_npi=4%40dis%21EUR%212.08%212.08%21%21%212.20%212.20%21%40211b619a17096288037974101e0a35%2112000026608429128%21sea%21DE%214565851420%21&curPageLogUid=ahmfexw1aSih&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=2024030500532316694723415837460000029320_5)|
-| :small_orange_diamond: | (3) Modifing Extruder Ribbon-Cable | Alternative to Dupont wires | ~ 20 Money | [Local Amazon](https://www.amazon.de/dp/B0CLD7S5VC/?coliid=I2OEUBWMZKO5ZB&colid=3AEFYUODSS1J9&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)|
-| ⚙️ |(6) Assembly| 50cm Stepper Wire | ~1 Money |[AliExpress]( https://a.aliexpress.com/_EHGpQVX) |
-| ⚙️ |(6) Assembly| 80cm Stepper Wire | ~1 Money |[AliExpress]( https://a.aliexpress.com/_EHGpQVX) |
-| :large_blue_diamond::small_orange_diamond: |(7) Optional Neopixel| 4*1 Bit Neopixel | ~5 Money |[AliExpress](https://de.aliexpress.com/item/32962174474.html) |
-| ⚙️:large_blue_diamond::small_orange_diamond: | (7) Optional Neopixel | 1x JST XH 2,54 3pins | ~ 1 Money | [AliExpress](https://de.aliexpress.com/item/32954418743.html?spm=a2g0o.order_list.order_list_main.29.564d5c5ftA02wT&gatewayAdapt=glo2deu)|
+| :heavy_check_mark: | Assembly  | Fly-E3-Pro-V3 | ~40 Money  | [AliExpress](https://a.aliexpress.com/_EwY8p5L) |
+| :heavy_check_mark: | wiring  | 200cm each AWG14 Red & Black  | ~4 Money  | [AliExpress](https://a.aliexpress.com/_ExgydLn)  |
+| :heavy_check_mark: | wiring  | Cable Lug 3xSV2-4 & 3xSV2-5 | ~5 Money  | [AliExpress](https://a.aliexpress.com/_Exw61D7)  |
+| :heavy_check_mark: | wiring  | MR60 Connector | ~6 Money  | [AliExpress](https://a.aliexpress.com/_EzVy9PX)  |
+| :heavy_check_mark: | wiring  | Wire sleeve (8mm ID) | ~1 Money  | [AliExpress](https://a.aliexpress.com/_EJrBNvF)  |
+| :heavy_check_mark: | wiring  | Zipties 3.6mm width | ~2 Money  | [AliExpress](https://de.aliexpress.com/item/1005004666948984.html?spm=a2g0o.order_list.order_list_main.53.6abb5c5f54HL53&gatewayAdapt=glo2deu)  |
+| :heavy_check_mark: | wiring  | Zipties 2.5mm width | ~2 Money  | [AliExpress](https://de.aliexpress.com/item/1005004666948984.html?spm=a2g0o.order_list.order_list_main.53.6abb5c5f54HL53&gatewayAdapt=glo2deu)  |
+| ⚙️ | Soldering | 2x JST XH 2,54 2pins | ~ 1 Money | [AliExpress](https://de.aliexpress.com/item/32954418743.html?spm=a2g0o.order_list.order_list_main.29.564d5c5ftA02wT&gatewayAdapt=glo2deu)|
+| ⚙️ | Soldering | 1x JST XH 2,54 3pins | ~ 1 Money | [AliExpress](https://de.aliexpress.com/item/32954418743.html?spm=a2g0o.order_list.order_list_main.29.564d5c5ftA02wT&gatewayAdapt=glo2deu)|
+| ⚙️ | Soldering | 1x 5pin Female Dupont with wires | ~ 3 Money | [AliExpress](https://de.aliexpress.com/item/1005003638697583.html?spm=a2g0o.productlist.main.49.24cdbhKKbhKKDx&algo_pvid=dc7d4394-075d-4b5c-b441-6d431405c723&aem_p4p_detail=2024030500532316694723415837460000029320&algo_exp_id=dc7d4394-075d-4b5c-b441-6d431405c723-24&pdp_npi=4%40dis%21EUR%212.08%212.08%21%21%212.20%212.20%21%40211b619a17096288037974101e0a35%2112000026608429128%21sea%21DE%214565851420%21&curPageLogUid=ahmfexw1aSih&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=2024030500532316694723415837460000029320_5)|
+| ⚙️ | Soldering | Alternative to Dupont wires | ~ 20 Money | [Local Amazon](https://www.amazon.de/dp/B0CLD7S5VC/?coliid=I2OEUBWMZKO5ZB&colid=3AEFYUODSS1J9&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it)|
+| ⚙️ |Stepper wiring| 50cm Stepper Wire | ~1 Money |[AliExpress]( https://a.aliexpress.com/_EHGpQVX) |
+| ⚙️ |Stepper wiring| 80cm Stepper Wire | ~1 Money |[AliExpress]( https://a.aliexpress.com/_EHGpQVX) |
+| :large_blue_diamond::small_orange_diamond: |Lighting| 4*1 Bit Neopixel | ~5 Money |[AliExpress](https://de.aliexpress.com/item/32962174474.html) |
 | :heavy_check_mark: |Motivation| At least seven cookies or bits of sweets and a cup of hot drink 🍪🍬 | Depents on your taste |Anywhere |
-
-
 
 ## Step 1 - Electrical wiring
 Requirements:

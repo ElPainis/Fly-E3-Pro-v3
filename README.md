@@ -39,7 +39,7 @@ I am creating these files for my personal use and cannot be held responsible for
   - [Step 3 - Modifing Extruder Ribbon-Cable](#Step-3---Modifing-Extruder-ribbon-Cable)
   - [Step 4 - Modifing Mobo enclosure](#Step-4---Modifing-Mobo-enclosure)
   - [Step 5 - Stepper wiring](#Step-5---stepper-wiring)
-  - [Step 6 - Assembly](Step-6---#assebmly)
+  - [Step 6 - Assembly](Step-6---#assembly)
   - [Step 7 - Optional Neopixel](#Step-7---Optional-Neopixel)
   - [Hardware conversion sources](#hardware-conversion-sources)
 - [Klipper Installation](#klipper-installation)
